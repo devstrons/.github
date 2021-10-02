@@ -1,5 +1,5 @@
 <p style="text-align:center;" align="center">
-  <img align="center" src="https://github.com/devstrons/artwork/blob/master/Stock%20assets/Logo/horizontal-with-devstrons.png" width="100%" /></p>
+  <img align="center" src="https://github.com/devstrons/artwork/blob/master/Stock%20assets/Logo/horizontal-with-devstrons.png" width="90%" /></p>
 <p align="center">
 <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Adevstrons+" alt="Help wanted across orgs">
 <img alt="Help wanted across orgs" src="https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aopen%20is%3Aissue%20archived%3Afalse%20org%3Adevstrons"></a>
