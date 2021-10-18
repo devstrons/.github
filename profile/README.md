@@ -19,5 +19,5 @@
 
 <br />
 <p align="center">
-  <a href="https://linktr.ee/devstrons"> DEVSTRONS'</a> is a student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code & Tron (grow). An organization bridging a gap between beginners and professionals to provide opportunities/resources to the folks around. 
+  <a href="https://linktr.ee/devstrons"> <i><b>DEVSTRONS'</b></a> is a student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code & Tron (grow). An organization bridging a gap between beginners and professionals to provide opportunities/resources to the folks around.</i>
 </p>
