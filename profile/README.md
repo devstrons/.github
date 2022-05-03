@@ -7,7 +7,7 @@
 <img alt="Help wanted across orgs" src="https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aopen%20is%3Aissue%20archived%3Afalse%20org%3Adevstrons"></a>
 
 <a href="https://github.com/devstrons" alt="DEVSTRONS' contributors">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/devstrons/hello-world"></a>
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/devstrons/heloworld"></a>
 
 <a href="https://discord.gg/MVujzTBqed" alt="DEVSTRONS' Discord">
 <img src="https://img.shields.io/discord/857641826953854987?color=blue&label=DEVSTRONS'&logo=discord" /></a>
@@ -15,7 +15,7 @@
 <a href="https://twitter.com/devstrons" alt="Follow @devstrons on Twitter">
 <img src="https://img.shields.io/twitter/follow/devstrons?label=devstrons&style=social" /></a>
 
-<a href="https://github.com/devstrons/hello-world" alt="License">
+<a href="https://github.com/devstrons/devstrons.hackclub.com" alt="License">
 <img src="https://img.shields.io/github/license/devstrons/hello-world.svg" /></a>
 </p>
 
