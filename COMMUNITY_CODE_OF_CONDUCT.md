@@ -77,4 +77,4 @@ Consequence: A permanent ban from any sort of public interaction within the comm
 
 # License and Attribution
 
-This Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0). Portions of the text were derived from the [Hack Club Code of Conduct](https://hackclub.com/conduct/) & [Postman Code of Conduct](https://www.postman.com/legal/community-code-of-conduct/).
+This Code of Conduct is distributed under a [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html) & [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0). Portions of the text were derived from the [Postman Code of Conduct](https://www.postman.com/legal/community-code-of-conduct/).
