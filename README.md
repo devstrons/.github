@@ -1,6 +1,6 @@
 <p style="text-align:center;" align="center">
   <a href="https://devstrons.bio.link/">
-   <img align="center" src="https://github.com/devstrons/artwork/blob/master/Stock%20assets/Logo/horizontal-with-devstrons.png" width="90%" /></p>
+   <img align="center" src="https://github.com/devstrons/artwork/blob/master/Stock%20assets/Logo/horizontal-with-devstrons.png" width="90%" alt="devstrons wallpaper"/></p>
   </a>
 <p align="center">
 <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Adevstrons+" alt="Help wanted across orgs">
@@ -21,5 +21,6 @@
 
 <br />
 <p align="center">
-  <a href="https://devstrons.bio.link/"> <i><b>DEVSTRONS'</b></a> is a student-run Open source/ project-based, inclusive & diverse community intending to Learn, Code & Tron (grow). An organization bridging a gap between beginners and professionals to provide opportunities/resources to the folks around.</i>
+  <a href="https://devstrons.bio.link/"> <i><b>DEVSTRONS'</b></a> is a student-run Open Source, Inclusive & Diverse Developers Community intending to LEARN, CODE & TRON (Trustworthy, Remarkable, Obedient, Nifty) in collaboration with Postman, GitHub and Hack Club, founded in July 2021.
+We bridge the gap between tech enthusiasts and professionals to provide opportunities, resources and direction through hands-on building projects.</i>
 </p>
