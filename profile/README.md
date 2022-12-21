@@ -22,6 +22,5 @@
 <br />
 <p align="center">
   <a href="https://devstrons.bio.link/"> <i><b>DEVSTRONS'</b></a> is a student-run Open Source, Inclusive & Diverse Developers Community intending to LEARN, CODE & TRON (Trustworthy, Remarkable, Obedient, Nifty) in collaboration with Postman, GitHub and Hack Club, founded in July 2021.
-
 We bridge the gap between tech enthusiasts and professionals to provide opportunities, resources and direction through hands-on building projects.</i>
 </p>
