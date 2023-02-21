@@ -1,13 +1,13 @@
 <p style="text-align:center;" align="center">
-  <a href="https://devstrons.bio.link/">
+  <a href="https://zaap.bio/devstrons">
    <img align="center" src="https://github.com/devstrons/artwork/blob/master/Stock%20assets/Logo/horizontal-with-devstrons.png" width="90%" alt="devstrons wallpaper"/></p>
   </a>
 <p align="center">
 <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Adevstrons+" alt="Help wanted across orgs">
 <img alt="Help wanted across orgs" src="https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aopen%20is%3Aissue%20archived%3Afalse%20org%3Adevstrons"></a>
 
-<a href="https://github.com/devstrons" alt="DEVSTRONS' contributors">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/devstrons/heloworld"></a>
+<a href="https://github.com/devstrons/support" alt="DEVSTRONS' contributors">
+<img alt="GitHub contributors" src="https://img.shields.io/badge/dynamic/json?color=blue&label=contributors&query=%24.total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Drepo%3Adevstrons%2Fsupport%2Bis%3Aissue%2Bis%3Aclosed"></a>
 
 <a href="https://discord.gg/MVujzTBqed" alt="DEVSTRONS' Discord">
 <img src="https://img.shields.io/discord/857641826953854987?color=blue&label=DEVSTRONS'&logo=discord" /></a>
