@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/twitter/follow/devstrons?label=devstrons&style=social" /></a>
 
 <a href="https://github.com/devstrons/devstrons.hackclub.com" alt="License">
-<img src="https://img.shields.io/github/license/devstrons/hello-world.svg" /></a>
+<img src="https://img.shields.io/github/license/devstrons/support.svg" /></a>
 </p>
 
 <br />
